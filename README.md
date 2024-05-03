@@ -27,7 +27,7 @@ public class EVBookingSystem
             getAllBookings();
 
             // Inserting a new booking
-            insertBooking(1, "John Doe", "2024-04-12", "10:00", "2 hours");
+            insertBooking(1, "Abhishek Nikhar", "2024-04-12", "10:00", "2 hours");
 
             // Updating an existing booking
             updateBooking(1, "2024-04-12", "11:00");
